@@ -15,7 +15,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email= AUTHOR_EMAIL,
-    description="A small pacjage for text summarization",
+    description="A small package for text summarization",
     long_description=long_description,
     long_description_content = "text/markdown",
     package_dir= {"":"src"},
