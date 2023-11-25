@@ -4,10 +4,10 @@ with open("README.md","r",encoding ="utf-8") as f:
     long_description = f.read()
 
 __version__ = "0.0.0.0"
-REPO_NAME = "Text-Summarization"
+REPO_NAME = "Text-summarization"
 AUTHOR_USER_NAME = "Vamsi Maddirala"
 SRC_REPO = "textsummarizer"
-AUTHOR_EMAIL = "vkrishna2381@outlook.com"
+AUTHOR_EMAIL = "vkrishna2381@outlook.com" 
 
 
 setuptools.setup(
